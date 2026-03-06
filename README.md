@@ -9,5 +9,3 @@ Master in Data Science for Economics, UniMi
 2. Enter your Kaggle API credentials in the second cell
 3. Run all cells
 
-## Structure
-- `arxiv_similar_items.ipynb` — Full pipeline (shingling → MinHash → LSH)
